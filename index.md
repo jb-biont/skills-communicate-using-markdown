@@ -3,7 +3,7 @@
 ![Image of Crazy Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## Header 2
-** Example 1: R code** 
+**Example 1: R code** 
 
 Bit of code: 
 ```
@@ -12,7 +12,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 
 
-** Example 2: JavaScript ** 
+**Example 2: JavaScript** 
 
 ``` javascript
 var myVar = "Hello, world!";
@@ -20,9 +20,9 @@ var myVar = "Hello, world!";
 
 ## _Header 3_
 
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
-- [x] Introduce myself to the world
+- [ ]  Turn on GitHub Pages
+- [ ]  Outline my portfolio
+- [x]  Introduce myself to the world
 
 
 
