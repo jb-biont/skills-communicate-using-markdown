@@ -20,6 +20,10 @@ var myVar = "Hello, world!";
 
 ## _Header 3_
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
+
 
 
 
